@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(146, 28, 28);
+    background-color: rgb(226, 221, 146);
     color:beige;
     font-family: Arial, sans-serif;
     margin: 0;   
 }
 
 header{
-    background-color: rgb(120, 216, 223);
+    background-color: rgb(172, 43, 43);
     color:white;
     text-align: center;
     padding: 30px;
@@ -75,6 +75,14 @@ card {
     margin: 15px 0;
     border-left: 6px solid #6b2d5c;
     border-radius: 10px;
+}
+
+card h3 {
+    background-color: aquamarine;
+    color:white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
 }
 
 
