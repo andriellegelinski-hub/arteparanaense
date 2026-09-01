@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(230, 130, 112);
+    background-color: #2E4D3A;
     color:beige;
     font-family: Arial, sans-serif;
     margin: 0;   
 }
 
 header{
-    background-color: rgb(155, 42, 27);
+    background-color: #6B8E23;
     color:white;
     text-align: center;
     padding: 30px;
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color:rgb(155, 31, 31)
+    color: #A3B18A;
 }
 
 p {
@@ -31,7 +31,7 @@ nav {
 nav a {
     color:white;
     text-decoration: none;
-    background-color: cornflowerblue;
+    background-color: #F2E8CF;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -39,7 +39,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: dimgray;
+    background-color: #FAF7F0;
 }
 
 main {
