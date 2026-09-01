@@ -31,7 +31,7 @@ nav {
 nav a {
     color:white;
     text-decoration: none;
-    background-color: #F2E8CF;
+    background-color: #A3B18A;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -65,7 +65,7 @@ img {
 figcaption {
     text-align: center;
     font-size: 14px;
-    color:rgb(104, 102, 98);
+    color: #000000;
     margin-top: 8px;
 }
 
