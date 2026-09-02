@@ -1,5 +1,5 @@
 body{
-    background-color: pink;
+    background-color: #A3B18A;
     color: #000000;
     font-family: Arial, sans-serif;
     margin: 0;   
@@ -7,7 +7,7 @@ body{
 
 header{
     background-color: #2E4D3A;
-    color: beige;
+    color: white;
     text-align: center;
     padding: 30px;
 }
